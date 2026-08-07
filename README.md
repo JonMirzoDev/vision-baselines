@@ -26,7 +26,7 @@ Updated as runs complete on this hardware.
 
 | Model | Dataset | Epochs | Test accuracy |
 |---|---|---|---|
-| LeNet | CIFAR-10 | 30 | run pending |
+| LeNet | CIFAR-10 | 30 | 80.25% |
 | ResNet-18 | CIFAR-10 | 60 | run pending |
 
 ## Roadmap
